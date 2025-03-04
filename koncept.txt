@@ -1,20 +1,25 @@
-### **"Whispering Spirits: A Wild West Indian Folktale Horror"**  
+**LOST EXIT – Koncept igre**
 
-#### **Koncept**  
-U 1870-ima, na granici američkog Divljeg Zapada, mladi istraživač **Elias Carter**, vođen pohlepom za zlatom i mističnim pričama, dolazi u zabačeni kanjon poznat kao **Dolina Tišine**. Stari Indijanski mitovi kažu da su tamo pokopani "Duhovi prvih naroda" – moćne sile koje su nekada vladale zemljom. No, oni koji naruše njihov mir... nestaju bez traga.  
+**Žanr:** Psihološki horor, avantura, narativna igra
+**Inspiracija:** "Hotel California" (Eagles)
 
-Kad Elias pronađe drevni amulet u napuštenom plemenskom selu, oslobađa kletvu i pokrene seriju nadnaravnih događaja. Sjena **Koščatog Čuvara**, entiteta koji kažnjava uljeze, počinje ga progoniti kroz snove i stvarnost. Kako se noć spušta, Elias mora preživjeti halucinacije, deformirane duhove i divlje zvijeri koje postaju nositelji drevnog bijesa.  
+### **Sinopsis**
+Igrač je putnik koji, nakon duge vožnje pustinjskom autocestom, stiže do misterioznog hotela **"The Grand Solace"**. Umoran i željan odmora, prijavljuje se na recepciji, no ubrzo primjećuje da s hotelom nešto nije u redu. Hodnici su beskonačni, vrata se pojavljuju i nestaju, a osoblje i gosti govore nejasno, kao da kriju tajnu. Pokušaji izlaska završavaju uvijek istim ishodom – igrač se vraća na isto mjesto, kao da nikada nije ni otišao.
 
-#### **Mehanike i igrivost**  
-🔸 **Preživljavanje i istraživanje** – Igrač se kreće kroz otvoreni polu-pustinjski svet, otkrivajući tragove izgubljenih putnika, indijanskih plemenskih rituala i starodavnih grobnica.  
-🔸 **Moralne odluke** – Možeš odabrati hoćeš li **vratiti amulet i tražiti oprost** ili **iskoristiti njegovu moć** za vlastiti spas (uz strašne posljedice).  
-🔸 **Lov na igrača** – Duhovi ne napadaju direktno, već vrebaju iz sjene, izazivajući paranoju kroz zvukove, izobličene vizije i nepredvidive napade.  
-🔸 **Indijanska magija** – Elias može naučiti drevne rituale da se zaštiti, ali samo ako stekne povjerenje preživjelih članova plemena.  
-🔸 **Nelinearna priča** – Ovisno o Eliasovim odlukama, završetak može biti iskupljenje, prokletstvo ili potpuni nestanak iz postojanja.  
+### **Glavne mehanike**
+- **Istraživanje hotela** – sobe, hodnici i saloni mijenjaju se ovisno o igračevim postupcima.
+- **Loop efekti** – prostor se iskrivljuje, a vrata ne vode uvijek tamo gdje bi trebala.
+- **Dijalogi s gostima i osobljem** – svaki lik skriva dio istine, ali samo određene odluke vode do odgovora.
+- **Zagonetke** – simbolični predmeti iz prošlih gostiju mogu otkriti način bijega.
+- **Mentalna stabilnost** – što više istražuješ, to više gubiš pojam o stvarnosti.
+- **Višestruki završeci** – možeš pobjeći, ali uz koju cijenu? Ili ćeš postati dio hotela… zauvijek?
 
-#### **Inspiracija i atmosfera**  
-👉 **Okruženje** – Pusta prerija, mračne šume, podzemne pećine s ritualnim crtežima, duhovi koji izranjaju iz magle.  
-👉 **Zvukovi** – Šapat duhova, zavijanje vjetra, bubnjevi u daljini, zastrašujući povici u noći.  
-👉 **Estetika** – Prljava western paleta boja s nadrealnim nadogradnjama – krvavo crveno nebo, fosforescentne duhove, mutne siluete koje plešu oko vatre.  
+### **Atmosfera i vizualni stil**
+- **Luksuzni, ali propali interijeri** – art deco dizajn 1970-ih, prašina, zlatni detalji koji blijede.
+- **Jeziva, iskrivljena jazz glazba** – tonovi se izobličuju kad si blizu "istinskog izlaza".
+- **Refleksije u ogledalima nisu tvoje** – nešto te promatra…
+- **Nadrealni osjećaj vremena** – satovi otkucavaju unatrag, večer nikad ne prelazi u jutro.
 
-Što misliš? Treba li dodati neku specijalnu mehaniku ili plot twist? 🔥
+### **Glavno pitanje igre:**
+Možeš li zaista pobjeći… ili samo misliš da jesi?
+
