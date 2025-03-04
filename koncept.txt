@@ -1,7 +1,22 @@
+VIDIT PO PREZENTACIJI ČA SVE TREBA
+
+RETRO GAME REINVENTED => NEKA OD PONUĐENIH => ONAJ FIGHTER MI JE NAJZANIMLJIVIJI ISKRENO
+
 - Usporedba s igrama koje već postoje (predstavnici žanra u koji želimo ići)
 - Oblikujemo ideju oko toga (nešto slično, ali neki naš touch da bude bolje)
 - žanr, radnja, platforma, ciljana publika, dob, jezik, single/multi, *obavezno neki sistem napredovanja* => coinovi, trofeji, progressbar ili neki klinac 
 - customizacija lika
+- igrač želi izaći, ali igra ga spriječava
+- nema turnova
+- single player
+- igrivost do 25 minuta
+- ciljana publika: 12+ jer je malo horrorish
+- mjesto radnje: hotel
+- možemo interractati s određenim djelovima hotela...neki će generirat jumpscare, neki će bit korisni
+- na random će se pojavljivat osoblje koje će nas tjerat da se vratimo u sobu...moramo bižat ili skrivat se. Ako nas ulove, vratimo se u početnu sobu
+- health system? Forši ne...ne moreš umrit..osuđen si na ostanak u hotelu
+- svaki put kad misliš da si izaša, samo se prehitiš u drugi dio hotela
+- neki ludi ending...totalno nelogičan
 
 **LOST EXIT – Koncept igre**
 
