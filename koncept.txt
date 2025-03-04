@@ -1,6 +1,7 @@
 - Usporedba s igrama koje već postoje (predstavnici žanra u koji želimo ići)
 - Oblikujemo ideju oko toga (nešto slično, ali neki naš touch da bude bolje)
 - žanr, radnja, platforma, ciljana publika, dob, jezik, single/multi, *obavezno neki sistem napredovanja* => coinovi, trofeji, progressbar ili neki klinac 
+- customizacija lika
 
 **LOST EXIT – Koncept igre**
 
