@@ -1,9 +1,9 @@
 MODERNIZIRAT DONKEY KONGA JER ZAŠ NE
 
-Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad ending, ako donosiš dobre odluke :)
-Dodat random moving npc-jeve koje moraš izbjegavat
-Ne spammat jumpscareove jer to onda više ni strašno
-Ne bit repetitivan
-Osmislit neki storyline...reveal na kraju...sometimes you gotta be evil to succeed
-Collectibles...collectibles...collectibles...ali neka budu smisleni (dobiš nešto)
-NE DELAT TEŽINE, JER NEMA SMISLA
+- Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad ending, ako donosiš dobre odluke :)
+- Dodat random moving npc-jeve koje moraš izbjegavat
+- Ne spammat jumpscareove jer to onda više ni strašno
+- Ne bit repetitivan
+- Osmislit neki storyline...reveal na kraju...sometimes you gotta be evil to succeed
+- Collectibles...collectibles...collectibles...ali neka budu smisleni (dobiš nešto)
+- NE DELAT TEŽINE, JER NEMA SMISLA ZA OVAJ KONTEKST
