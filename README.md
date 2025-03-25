@@ -7,4 +7,5 @@ MODERNIZIRAT DONKEY KONGA JER ZAŠ NE
 - Ne bit repetitivan
 - Osmislit neki storyline...reveal na kraju...sometimes you gotta be evil to succeed
 - Collectibles...collectibles...collectibles...ali neka budu smisleni (dobiš nešto)
+- neki puzzle di se kontrole invertiraju...jer zaš ne :)
 - NE DELAT TEŽINE, JER NEMA SMISLA ZA OVAJ KONTEKST
