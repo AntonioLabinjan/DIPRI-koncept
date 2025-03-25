@@ -6,4 +6,5 @@
 - Osmislit neki storyline...reveal na kraju...sometimes you gotta be evil to succeed
 - Collectibles...collectibles...collectibles...ali neka budu smisleni (dobiš nešto)
 - neki puzzle di se kontrole invertiraju...jer zaš ne :)
+- neki creepy sitni detalji koje ćeš skužit tek kad skužiš o čemu se zapravo radi
 - NE DELAT TEŽINE, JER NEMA SMISLA ZA OVAJ KONTEKST
