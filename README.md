@@ -1,4 +1,4 @@
-- Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad ending, ako donosiš dobre odluke :)
+O89- Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad ending, ako donosiš dobre odluke :)
 - nesavršen lik sounds good
 - Dodat random moving npc-jeve koje moraš izbjegavat
 - Ne spammat jumpscareove jer to onda više ni strašno
@@ -10,3 +10,4 @@
 - NE DELAT TEŽINE, JER NEMA SMISLA ZA OVAJ KONTEKST
 
 SVAKI ASSET KOJI ŽELIMO KORISTIT TRIBA PRVO PROVJERIT DALI DELA
+Semafor reference u nekima puzzleovima
