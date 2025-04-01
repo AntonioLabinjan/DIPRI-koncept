@@ -15,4 +15,4 @@ Semafor reference u nekima puzzleovima
 
 NEXT STEP => DOKUMENT DIZAJNA IGRE
 - dokument koji obuhvaća sve moguće aspekte razvoja naše igre
-- 
+- dodat portrete poznatih ovisnika na zidove 
