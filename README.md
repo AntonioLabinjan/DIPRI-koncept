@@ -1,4 +1,5 @@
-Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad ending, ako donosiš dobre odluke :)
+Ideja za onu prvu:
+- moreš dobit good ending, ako donosiš loše odluke / bad ending, ako donosiš dobre odluke :)
 - nesavršen lik sounds good
 - Dodat random moving npc-jeve koje moraš izbjegavat
 - Ne spammat jumpscareove jer to onda više ni strašno
@@ -7,9 +8,11 @@ Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad end
 - Collectibles...collectibles...collectibles...ali neka budu smisleni (dobiš nešto)
 - neki puzzle di se kontrole invertiraju...jer zaš ne :)
 - neki creepy sitni detalji koje ćeš skužit tek kad skužiš o čemu se zapravo radi
-- NE DELAT TEŽINE, JER NEMA SMISLA ZA OVAJ KONTEKST
+- NE IMPLEMENTIRAT DIFFICULTY LEVELS, JER NEMA SMISLA ZA OVAJ KONTEKST
 
 SVAKI ASSET KOJI ŽELIMO KORISTIT TRIBA PRVO PROVJERIT DALI DELA
 Semafor reference u nekima puzzleovima
 
 NEXT STEP => DOKUMENT DIZAJNA IGRE
+- dokument koji obuhvaća sve moguće aspekte razvoja naše igre
+- 
