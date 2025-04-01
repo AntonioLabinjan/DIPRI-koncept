@@ -11,3 +11,5 @@ Ideja za onu prvu: moreš dobit good ending, ako donosiš loše odluke / bad end
 
 SVAKI ASSET KOJI ŽELIMO KORISTIT TRIBA PRVO PROVJERIT DALI DELA
 Semafor reference u nekima puzzleovima
+
+NEXT STEP => DOKUMENT DIZAJNA IGRE
