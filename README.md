@@ -14,7 +14,7 @@ SVAKI ASSET KOJI ŽELIMO KORISTIT TRIBA PRVO PROVJERIT DALI DELA
 Semafor reference u nekima puzzleovima
 
 NEXT STEP => DOKUMENT DIZAJNA IGRE
-- dokument koji obuhvaća sve moguće aspekte razvoja naše igre
+- dokument koji obuhvaća sve moguće aspekte razvoja naše igre i dokumentira mentalnu eroziju njegovog autora uzrokovanu nespavanjem
 - dodat portrete poznatih ovisnika na zidove 
 
 unity tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=2
