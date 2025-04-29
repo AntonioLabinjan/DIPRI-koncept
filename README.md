@@ -18,3 +18,5 @@ NEXT STEP => DOKUMENT DIZAJNA IGRE
 - dodat portrete poznatih ovisnika na zidove 
 
 unity tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&list=PLzDRvYVwl53vxdAPq8OznBAdjf0eeiipT&index=2
+
+WORLD TUTORIAL: https://www.youtube.com/watch?v=WbZpj8WcjN0
