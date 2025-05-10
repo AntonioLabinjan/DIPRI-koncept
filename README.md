@@ -22,3 +22,5 @@ unity tutorial: https://www.youtube.com/watch?v=AmGSEH7QcDg&list=PLzDRvYVwl53vxd
 WORLD TUTORIAL: https://www.youtube.com/watch?v=WbZpj8WcjN0
 
 https://www.youtube.com/watch?v=lnCr2Yby-6w
+
+# MOJE ZADUŽENJE: WORLD BUILDING
